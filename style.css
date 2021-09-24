@@ -1,0 +1,17 @@
+/* img{
+    width:1200px;
+} */
+
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+  .post{
+          position: sticky !important;
+          bottom: 20%;
+        }
+
+
+#change-style-for-csss{
+    font-size: 50px;
+}
